@@ -7,5 +7,6 @@ Ejemplo de repositorio para clase JavaScript
 
 Crear un fork de este repositorio
 
+--- 
 
 Jorge Rodriguez 
